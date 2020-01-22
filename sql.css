@@ -1,0 +1,21 @@
+*{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+table{
+	border-collapse: collapse;
+	margin-top: 15px;
+	margin-bottom: 25px;
+	margin-left: 15px;
+	width: 1000px;
+}
+th,td{
+	text-align: left;
+	padding: 5px;
+}
+.answer{
+	border: 1px solid black;
+	padding: 5px;
+	margin: 5px;
+}
